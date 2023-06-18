@@ -1,0 +1,89 @@
+Topics:
+
+
+******Please turn on format on save and start coding******
+
+Declartion & initialization:
+
+  Eg: var x; // declaration
+      x = 10; // initialization
+  
+Scopes:
+  global ---> parent scope every scopes ()
+
+    function ( inside function (){} )
+
+    block {}
+
+  {} ---> block of lines
+
+  [] ---> Array of elements
+
+  () ---> methods/functions
+
+  var
+    variables will be declared either in the global(block also goes to global) / functional scope
+    re-declaration is allowed
+
+  let:
+    variables declared locally will get destroyed once the scope is done
+    only the global level scope will not get erased
+    re-declaration is not allowed
+  
+  const:
+    variables should be declared along with initialization
+    re-declaration is not allowed
+
+Operators:
+
+    Arithemetic: +, -, *, /, %( 5 % 2 ---> 1 ( remainder) )
+    Assignment: =
+    Logical Bitwise: &(and), |(or), !(not)
+    compariason: >, <, >=, <=, !=, ==, === // results in boolean value
+    conditional:  &&, ||, ? with else operation
+    Boolean: true or false, 0 or 1, undefined, null
+
+looping, conditions, simple problems
+
+  looping: it is a process of repeating a block statements again and again
+
+  for:
+
+  if else
+
+  how many times or when to stop the looping
+
+  concepts in looping
+    initialization, termination condition, inc/drec
+  
+  iterating/looping thorugh a array or object:
+
+    Array:
+      [1, 2, 3, 4, 5]
+
+String: usefull function
+  split: // split --> splits the string with a delimiter( with a particular character )
+  toLowerCase
+  toUpperCase
+
+
+Array: it is sequential memory location
+
+  Array index always starts from 0
+
+  accessing values of an array
+
+  array can contain elements of multiple types
+
+  get length of an array
+
+  array.length
+
+  array.join - Joins the array value in a specified way
+    joins the array element with a specified in between
+      eg:   arr.join('$')
+        Ans '1$2$3$4$5'     
+
+Next Session:
+Object Iteration:
+
