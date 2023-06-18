@@ -82,7 +82,38 @@ Array: it is sequential memory location
   array.join - Joins the array value in a specified way
     joins the array element with a specified in between
       eg:   arr.join('$')
-        Ans '1$2$3$4$5'     
+        Ans '1$2$3$4$5' 
+
+Task:
+
+Complete the input Output Problem:
+
+Hint:
+Userinput Value will be like below,
+
+//start-here
+//Your code goes here … replace the below line with your code logic 
+
+// If
+// INPUT
+// 2 4
+// 2 4
+// 2 4
+
+// Then
+// userInput will be
+// var userInput = ['2 4', '2 4', '2 4']
+
+// INPUT
+// Sanjay
+// Balanchandra
+// Sammy
+
+// userInput elements will be each input line **** IMPORTANT ****
+// var userInput = ['Sanjay', 'Balanchandra', 'Sammy'];
+
+
+//end-here
 
 Next Session:
 Object Iteration:
