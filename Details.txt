@@ -47,9 +47,9 @@ looping, conditions, simple problems
 
   looping: it is a process of repeating a block statements again and again
 
-  for:
+  for, while -> looping statements
 
-  if else
+  if else -> conditional executing conditionally
 
   how many times or when to stop the looping
 
